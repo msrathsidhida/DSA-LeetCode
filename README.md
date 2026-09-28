@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/msrathsidhida/DSA-LeetCode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/msrathsidhida/DSA-LeetCode/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/msrathsidhida/DSA-LeetCode/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/msrathsidhida/DSA-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -34,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/msrathsidhida/DSA-LeetCode/tree/master/0647-palindromic-substrings) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/msrathsidhida/DSA-LeetCode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/msrathsidhida/DSA-LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
