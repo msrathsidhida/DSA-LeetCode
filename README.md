@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/msrathsidhida/DSA-LeetCode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/msrathsidhida/DSA-LeetCode/tree/master/0155-min-stack) |
+| [0503-next-greater-element-ii](https://github.com/msrathsidhida/DSA-LeetCode/tree/master/0503-next-greater-element-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -48,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/msrathsidhida/DSA-LeetCode/tree/master/0155-min-stack) |
+## Array
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/msrathsidhida/DSA-LeetCode/tree/master/0503-next-greater-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/msrathsidhida/DSA-LeetCode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
