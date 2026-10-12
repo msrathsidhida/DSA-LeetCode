@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/msrathsidhida/DSA-LeetCode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/msrathsidhida/DSA-LeetCode/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/msrathsidhida/DSA-LeetCode/tree/master/0205-isomorphic-strings) |
+| [0402-remove-k-digits](https://github.com/msrathsidhida/DSA-LeetCode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/msrathsidhida/DSA-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/msrathsidhida/DSA-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/msrathsidhida/DSA-LeetCode/tree/master/0567-permutation-in-string) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/msrathsidhida/DSA-LeetCode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/msrathsidhida/DSA-LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/msrathsidhida/DSA-LeetCode/tree/master/0155-min-stack) |
+| [0402-remove-k-digits](https://github.com/msrathsidhida/DSA-LeetCode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/msrathsidhida/DSA-LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/msrathsidhida/DSA-LeetCode/tree/master/0901-online-stock-span) |
 ## Bracket Sequences
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/msrathsidhida/DSA-LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/msrathsidhida/DSA-LeetCode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/msrathsidhida/DSA-LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/msrathsidhida/DSA-LeetCode/tree/master/0901-online-stock-span) |
 ## Data Stream
@@ -71,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/msrathsidhida/DSA-LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/msrathsidhida/DSA-LeetCode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
